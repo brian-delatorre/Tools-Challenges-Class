@@ -1,0 +1,20 @@
+---
+title: "BD_Tools_Fall2024"
+author: "Brian De La Torre"
+format: html
+editor: visual
+---
+
+## WILD 7970 Tools - Quarto Assignments
+
+![Tools png](images/tool_png.png)
+
+Assignment #1
+
+Prompt: First, describe what you consider to be one of the most ground-breaking or "disruptive" papers in your field. Next, describe the most ground-breaking or disruptive paper in your field in the past 5-10 years. Do you believe the disruptive or paradigm-shifting nature of the work in your field has declined in recent years? Why or why not?
+
+The paper titled “The river continuum: a theoretical construct for analysis of river” by RL Vannote is considered one of the most influential and ground-breaking papers in the field of aquatic ecology. This paper did so much for disciplines such as limnology, aquatic ecology, and fisheries because it defined and gave explanation for so many concepts that are still used to this very day. This paper was revolutionary at the time because much of this information had not been full solidified and many of these concepts were considered a theory at the time.  However, it was still successful due to how it connected many unrelated ecological topics together such as geo-morphology, energy flow, aquatic organism roles, implications for ecosystem stability and so on. This paper has become a staple in many aquatic ecology or limnology classes and has established itself as a defining contribution due to its significance and many researchers still reference this paper to this day for how well known it is in the field.
+
+Conversely, probably the most disruptive paper that has been produced in the last 5-10 years regarding aquatic ecology is a paper titled “Freshwater Biodiversity under threat” (2021, Science). This paper is not necessarily groundbreaking in the sense that this is brand-new earth-shattering information but was held in high regard as it synthesized very important and current topics about aquatic ecological research. Many of these topics involved aquatic species loss, pollution, habitat destruction, and the importance for urgent conservation measures. One can argue that many of these topics are by no means new or groundbreaking, since all of these ideas have been previously been explored and there has been a great deal of research surrounding these topics for several years or even decades at this point.
+
+Disruptive or paradigm-shifting work and how it is related to modern research is a difficult question to answer because I think it depends on what these topics are actually defining. On one hand, I believe that at face value, modern papers being published are not as disruptive or ground-breaking as they have been in the past given the definition that the paper has given us. I would also agree that many of these papers that are actually disruptive appear to be declining compared to previous years. However, that being said it is also worth mentioning that I believe that the overall quality of science has not diminished and that science overall is not slowing down. Rather I think that this has more to do with the nature of science as a hole, and how we interpret and value disruptive research. I believe that given what we know now about science and the scientific method it would not make much sense if groundbreaking research was happening on a regular basis. If new revelations became a regular occurrence, this would indicate that we did not really know as much as we actually did, and that several decades of research on this topic has now been rendered null. Instead, I think a steady stream of research that consolidates and cements several decades worth of research proves that the theories and assumptions we had back then are more than likely the truth considering that they have yet to be disproven given how much time and advancements in technology has taken place since then. Because of this, I believe that one could read this article and think that there is cause for worry regarding scientific research, but instead this should be seen as a good thing as this gives further evidence that science is continuing to head in the correct direction.
